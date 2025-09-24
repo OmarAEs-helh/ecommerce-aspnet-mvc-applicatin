@@ -48,6 +48,7 @@ namespace eTicket.Data
                             Logo = "http://dotnethow.net/images/cinemas/cinema-5.jpeg",
                             Description = "This is the description of the first cinema"
                         },
+
                     });
                     context.SaveChanges();
 
